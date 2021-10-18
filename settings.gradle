@@ -1,0 +1,3 @@
+include ':stacklib'
+include ':app'
+rootProject.name = "AssignmentCRED"
